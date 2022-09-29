@@ -1,0 +1,13 @@
+C:\Users\Nabor\Desktop\BIT142\MajorCodingAssignment4\MajorCodingAssignment4\bin\Debug\netcoreapp3.1\MajorCodingAssignment4.exe
+C:\Users\Nabor\Desktop\BIT142\MajorCodingAssignment4\MajorCodingAssignment4\bin\Debug\netcoreapp3.1\MajorCodingAssignment4.deps.json
+C:\Users\Nabor\Desktop\BIT142\MajorCodingAssignment4\MajorCodingAssignment4\bin\Debug\netcoreapp3.1\MajorCodingAssignment4.runtimeconfig.json
+C:\Users\Nabor\Desktop\BIT142\MajorCodingAssignment4\MajorCodingAssignment4\bin\Debug\netcoreapp3.1\MajorCodingAssignment4.runtimeconfig.dev.json
+C:\Users\Nabor\Desktop\BIT142\MajorCodingAssignment4\MajorCodingAssignment4\bin\Debug\netcoreapp3.1\MajorCodingAssignment4.dll
+C:\Users\Nabor\Desktop\BIT142\MajorCodingAssignment4\MajorCodingAssignment4\bin\Debug\netcoreapp3.1\MajorCodingAssignment4.pdb
+C:\Users\Nabor\Desktop\BIT142\MajorCodingAssignment4\MajorCodingAssignment4\obj\Debug\netcoreapp3.1\MajorCodingAssignment4.csprojAssemblyReference.cache
+C:\Users\Nabor\Desktop\BIT142\MajorCodingAssignment4\MajorCodingAssignment4\obj\Debug\netcoreapp3.1\MajorCodingAssignment4.AssemblyInfoInputs.cache
+C:\Users\Nabor\Desktop\BIT142\MajorCodingAssignment4\MajorCodingAssignment4\obj\Debug\netcoreapp3.1\MajorCodingAssignment4.AssemblyInfo.cs
+C:\Users\Nabor\Desktop\BIT142\MajorCodingAssignment4\MajorCodingAssignment4\obj\Debug\netcoreapp3.1\MajorCodingAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\Nabor\Desktop\BIT142\MajorCodingAssignment4\MajorCodingAssignment4\obj\Debug\netcoreapp3.1\MajorCodingAssignment4.dll
+C:\Users\Nabor\Desktop\BIT142\MajorCodingAssignment4\MajorCodingAssignment4\obj\Debug\netcoreapp3.1\MajorCodingAssignment4.pdb
+C:\Users\Nabor\Desktop\BIT142\MajorCodingAssignment4\MajorCodingAssignment4\obj\Debug\netcoreapp3.1\MajorCodingAssignment4.genruntimeconfig.cache
